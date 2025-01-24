@@ -4,10 +4,10 @@
     {
       "question": "What is the relationship between the number of slits on a diffraction grating and the resolution of the diffraction pattern? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Directly proportional ",
+        "b": "Inversely proportional ",
+        "c": "No relationship",
+        "d": "Exponential relationship"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
       "question": "In a diffraction grating, the number of lines per unit length is called:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Line width ",
+        "b": "Grating spacings",
+        "c": "Grating constant ",
+        "d": "Line constant "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,16 +32,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
       "question": "What is requirement of the path difference to get bright spot in the diffraction (note that, λ is the wavelength of light and n is an integer)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "path difference =n/2λ",
+        "b": "path difference =nλ ",
+        "c": "path difference =nλ/2 ",
+        "d": "path difference =nλ/3"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -49,16 +49,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
       "question": "What is the relationship between the number of slits on a diffraction grating and the angle of diffraction? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Directly proportional",
+        "b": "Inversely proportional",
+        "c": "No relationship ",
+        "d": "Exponential relationship"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -66,7 +66,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {

@@ -22,7 +22,7 @@
       "question": "Among the following which can be used to define colour of light?",
       "answers": {
         "a": "Meter",
-        "b": "Joule ",
+        "b": "meter.second ",
         "c": "Second ",
         "d": "Gram"
       },
@@ -32,7 +32,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {

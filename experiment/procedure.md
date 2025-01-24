@@ -29,9 +29,10 @@ D.	Screen<br><br>
 <img src="images/image_10.png"><br>
 
 Given, the grating has 13600 lines per inch (grating constant).<br>
-That means distance between two consecutive lines (d) = (1 ÷ 13600) = 7.35×10<sup>-5<sup>inch
-note that,1 inch = 2.54 cm	<br>
-∴ spacing of the grating (d) = 7.35 × 10<sup>-5<sup> × 2.54 cm=1.867 × 10<sup>-4<sup>cm <br>
+That means distance between two consecutive lines (d) = (1 ÷ 13600) = 7.35×10<sup>-5</sup> inch<br>
+
+note that, 1 inch= 2.54 cm	<br>
+∴ spacing of the grating (d) = 7.353482 × 10<sup>-5</sup> × 2.54 cm = 1.867784 × 10<sup>-4</sup>cm <br>
 
 <img src="images/image_11.png"><br><br>
 
