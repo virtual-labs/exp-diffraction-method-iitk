@@ -153,8 +153,7 @@ button {
     height: 10px;
     opacity: 0.4;
 }
-/* //add
-*/
+/* For Responsive*/
 @media screen and (max-width: 768px) {
     .experiment-area {
         flex-direction: column;
@@ -246,3 +245,71 @@ button {
   padding: 6px;
   text-align: center;
 }
+
+
+
+/* Procedure Toggle */
+#procedureToggle {
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.info-icon {
+    width: 22px;
+    height: 22px;
+    background: #222;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info-label {
+    font-size: 13px;
+    font-weight: bold;
+    color: #222;
+}
+
+/* Procedure Box */
+#procedureBox {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    width: 300px;
+    background: #fff;
+    border: 2px solid #444;
+    padding: 10px;
+    font-size: 13px;
+    display: none;
+    z-index: 10;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    max-height: 260px;
+    overflow-y: auto;
+}
+
+#procedureBox h4 {
+    margin: 0 0 6px 0;
+    font-size: 14px;
+}
+
+#procedureBox ol {
+    padding-left: 18px;
+    margin: 0;
+}
+
+#procedureBox ol li {
+    margin-bottom: 6px;
+}
+
+#procedureBox ol li::marker {
+    font-weight: bold;
+}
+
