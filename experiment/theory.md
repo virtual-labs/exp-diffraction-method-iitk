@@ -8,7 +8,8 @@ Whenever the difference in path length between the light passing through differe
 light, the light from each of these slits will be in phase, and it will form an image at the specified location. Mathematically, the relation 
 is simple:<br>
 
-<img src="images/image_1.png"><br>
+<!--<img src="images/image_1.png"><br>-->
+mλ = d sinθ
 
 <img src="images/image_2.png"><br>
 <b>Figure 1.</b> Geometry determining the conditions for diffraction from a multi-wire grating.<br>
@@ -26,7 +27,8 @@ wavelength λ. Consider Fig. 2, which shows the set-up for a diffraction grating
 images of the light will appear at several angles—θ1, θ2, θ3 and so on. The value of θm is given by the grating equation shown above, so that <br>
 
 
-<img src="images/image_4.png"><br>
+θ<sub>m</sub> = sin<sup>-1</sup>(mλ/d)
+<!--<img src="images/image_4.png"><br>-->
 
 The image created at θm is called the mth order image. The 0th order image is the light that shines straight through. 
 Here we will be looking at the first and second order diffraction images of a laser and measuring its wavelength. 
