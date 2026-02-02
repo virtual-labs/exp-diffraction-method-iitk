@@ -1,3 +1,16 @@
+<b> Procedure to run the simulation : </b><br>
+
+1. Click on Laser Source button to add the laser in the experimental setup.<br>
+2. Click on Grating button to place the diffraction grating between laser and screen.<br>
+3. Click on Screen button to add the observation screen.<br>
+4. After adding Laser, Grating, and Screen, click on Turn On to start the simulation.<br>
+5. A diffraction pattern consisting of a central maximum and higher order maxima appears on the screen.<br>
+6. Adjust the distance between the screen and grating using the slider provided.<br>
+7. Note the distances between the central (0th order) maximum and S₁ (first order) and S₂ (second order) maxima.<br>
+8. Click on Add Observation to record the readings in the observation table.<br>
+9. Change the distance and repeat the above steps to take multiple readings.<br><br>
+
+<b> Laboratory Procedure : </b><br><br>
 <b> Apparatus : </b><br>
 A.	LASER source<br>
 B.	Grating<br>
