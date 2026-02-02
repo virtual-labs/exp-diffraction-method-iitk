@@ -1,0 +1,10 @@
+
+/home/runner/work/exp-diffraction-method-iitk/exp-diffraction-method-iitk/experiment/simulation/js/main.js
+   7:10  warning  'startSimulation' is defined but never used  no-unused-vars
+  19:10  warning  'resetSimulation' is defined but never used  no-unused-vars
+  73:10  warning  'toggleLaser' is defined but never used      no-unused-vars
+  86:10  warning  'toggleGrating' is defined but never used    no-unused-vars
+  99:10  warning  'toggleScreen' is defined but never used     no-unused-vars
+
+✖ 5 problems (0 errors, 5 warnings)
+

@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the name of the phenomenon where light waves interfere with each other to produce bright and dark fringes?",
+      "answers": {
+        "a": "Reflection ",
+        "b": "Refraction ",
+        "c": "Photoelectric effect ",
+        "d": "Interference"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Among the following which can be used to define colour of light?",
+      "answers": {
+        "a": "Meter",
+        "b": "meter.second ",
+        "c": "Second ",
+        "d": "Gram"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the condition for the constructive interference of light waves?",
+      "answers": {
+        "a": "The waves must be in phase",
+        "b": "The waves must be out of phase",
+        "c": "The amplitude of the waves must be equal",
+        "d": "The frequency of the waves must be equal"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The factor that does NOT affect the spacing between the fringes in a double-slit experiment is",
+      "answers": {
+        "a": "Width of the slits",
+        "b": "Distance between the slits",
+        "c": "Wavelength of light",
+        "d": "Intensity of light"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The value for the order of diffraction can be",
+      "answers": {
+        "a": "any positive integers",
+        "b": "0 and 1 only",
+        "c": "only 1",
+        "d": "Any positive number"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
